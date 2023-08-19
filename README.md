@@ -6,7 +6,7 @@
 #### E-commerce de herramientas
 
 #### Tecnologías utilizadas: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL, Autenticación de terceros (Google), Métodos de pago (Mercado Pago, Paypal), Metodología Ágil (SCRUM)
-#### Colaboradores: Sarapr27, Daniel-quintero1, JuanZu77, ChechuM, jopez1, diegocrp1
+#### Colaboradores: [Sara Pinzon](https://github.com/Sarapr27), [Daniel Quintero](https://github.com/Daniel-quintero1), [Juan Zubiri](https://github.com/JuanZu77), [Cecilia Moroni](https://github.com/ChechuM), [Jose Lopez](https://github.com/jopez1), [Diego Campos](https://github.com/diegocrp1)
 #### Enlace: https://clienttoolverse-production.up.railway.app/
 #### Repositorio: https://github.com/ngpalma/clientToolVerse https://github.com/ngpalma/apiToolVerse
 
