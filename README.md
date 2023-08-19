@@ -2,14 +2,15 @@
 ### Apasionado desarrollador Full Stack con un enfoque en crear soluciones web excepcionales. Mi pasión por la programación se combina con una sólida base en tecnologías front-end y back-end para brindar experiencias digitales de alta calidad.
 
 ## 🚀 Proyectos Destacados
-### PF - ToolVerse
+## Proyecto Final Grupal - ToolVerse
 #### E-commerce de herramientas
 
 #### Tecnologías utilizadas: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL, Autenticación de terceros (Google), Métodos de pago (Mercado Pago, Paypal), Metodología Ágil (SCRUM)
+#### Colaboradores: Sarapr27, Daniel-quintero1, JuanZu77, ChechuM, jopez1, diegocrp1
 #### Enlace: https://clienttoolverse-production.up.railway.app/
 #### Repositorio: https://github.com/ngpalma/clientToolVerse https://github.com/ngpalma/apiToolVerse
 
-### PI - Countries
+## Proyecto Individual - Countries
 #### Información detallada sobre países
 
 #### Tecnologías utilizadas: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL
