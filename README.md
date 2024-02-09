@@ -9,16 +9,12 @@ Tecnologías utilizadas: HTML, CSS, JavaScript, React, Redux, Node.js, Express, 
 <br></br>
 Colaboradores: [Sara Pinzon](https://github.com/Sarapr27), [Daniel Quintero](https://github.com/Daniel-quintero1), [Juan Zubiri](https://github.com/JuanZu77), [Cecilia Moroni](https://github.com/ChechuM), [Jose Lopez](https://github.com/jopez1), [Diego Campos](https://github.com/diegocrp1)
 <br></br>
-Enlace: https://clienttoolverse-production.up.railway.app/
-<br></br>
 Repositorio: https://github.com/ngpalma/clientToolVerse https://github.com/ngpalma/apiToolVerse
 
 ## Proyecto Individual - Countries
 #### Información detallada sobre países
 
 Tecnologías utilizadas: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL
-<br></br>
-Enlace: https://countriesfront-production-5a7b.up.railway.app/
 <br></br>
 Repositorio: https://github.com/ngpalma/Countries
 
