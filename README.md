@@ -41,3 +41,5 @@ Insomnia
 https://www.linkedin.com/in/nicolas-gerardo-palma/
 <br></br>
 nicolasgerardopalma@gmail.com
+<br></br>
+[Mi portfolio](https://ngpalma.github.io/portfolio/)
