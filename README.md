@@ -34,12 +34,15 @@
 
 ## 🚀 Proyectos Destacados
 
-### 🏭 [E-commerce Empresa Textil](https://github.com/tu-repo-textil) 
+### 🏭 E-commerce Empresa Textil
 **Desarrollo Comercial | Jun 2024 - Nov 2024**
-- 🌐 Sitio web corporativo y e-commerce completo
+- 🌐 Sitio web corporativo y e-commerce
 - ⚡ **Stack:** Angular, Node.js, PostgreSQL, Express
 - 👥 Proyecto colaborativo en equipo
 - 🎯 **Enfoque:** UX optimizada y arquitectura escalable
+
+**Colaborador destacado:**
+[@JuanZu77](https://github.com/JuanZu77)
 
 ### 🛠️ [ToolVerse - E-commerce](https://github.com/ngpalma/clientToolVerse)
 **Proyecto Grupal | Jul 2023 - Ago 2023**
@@ -103,7 +106,7 @@ const nicolas = {
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-gerardo-palma/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasgerardopalma@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ngpalma.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ngpalma.net.ar)
 
 </div>
 
