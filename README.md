@@ -66,7 +66,8 @@
 
 <div align="center">
   
-![Nicolás' GitHub stats](https://github-readme-stats.vercel.app/api?username=ngpalma&show_icons=true&theme=radical)
+![Nicolás' GitHub stats](https://github-readme-stats-ivory-ten-56.vercel.app/api?username=ngpalma&show_icons=true&count_private=true&theme=radical
+)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngpalma&layout=compact&theme=radical)
 
