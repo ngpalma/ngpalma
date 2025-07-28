@@ -21,8 +21,7 @@ jobs:
           user: ngpalma
           base: "activity, community, repositories, metadata"
           config_timezone: America/Argentina/Buenos_Aires
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements: no
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css
