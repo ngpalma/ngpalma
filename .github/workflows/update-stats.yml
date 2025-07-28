@@ -17,7 +17,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: ngpalma
           base: "activity, community, repositories, metadata"
           config_timezone: America/Argentina/Buenos_Aires
