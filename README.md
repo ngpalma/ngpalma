@@ -66,9 +66,6 @@
 
 <div align="center">
 
-![GitHub metrics](./github-metrics.svg)
-
-  
 ![Nicolás' GitHub stats](https://github-readme-stats-ivory-ten-56.vercel.app/api?username=ngpalma&show_icons=true&count_private=true&theme=radical
 )
 
