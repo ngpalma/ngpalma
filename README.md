@@ -22,7 +22,7 @@ Landing pages, Google Maps, catálogos digitales, sistemas de turnos y tiendas c
 
 ## Proyectos
 
-**[ToolVerse](https://github.com/ngpalma/clientToolVerse)** — E-commerce de herramientas industriales con MercadoPago y Google OAuth. Equipo de 7 trabajando con SCRUM.
+**[ToolVerse](https://github.com/ngpalma/ecommerce-toolverse)** — E-commerce de herramientas industriales con MercadoPago y Google OAuth. Equipo de 7 trabajando con SCRUM.
 
 **Catálogo textil** — Backend, base de datos y deploy de sitio corporativo con catálogo online para empresa textil. Node.js, Express, PostgreSQL, Ubuntu VPS. [Ver sitio →](https://www.imgtextil.com.ar/home)
 
